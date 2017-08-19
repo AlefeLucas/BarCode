@@ -1,0 +1,10 @@
+* Implementar a tela de Login
+* Melhorar o layout
+* Criar tabela para total de vendas por cliente
+	- SELECT NOMECLIENTE, SUM(VALORCOMPRA) FROM CLIENTE CLI, VENDA VE WHERE CLI.ID_CLIENTE = VE.ID_CLIENTE;
+
+
+*LOGIN: ti01n
+*SENHA: senai2015
+
+*ENTREGAR COM O .JAR E O .SQL
